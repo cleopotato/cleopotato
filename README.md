@@ -12,7 +12,7 @@ are very much welcome!
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
 </p>
 - Fun Fact: I enjoy playing video games, I have a dog named Yoda, and a 5 year old.
 --><a href="https://app.daily.dev/gitCleo"><img src="https://api.daily.dev/devcards/d529f3962e304a428a718ebb07a7c6c5.png?r=upd" width="400" alt="Cleolyn Salazar-Letona's Dev Card"/></a>
