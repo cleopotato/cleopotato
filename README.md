@@ -2,11 +2,11 @@
 My name is Cleolyn, but just call me "Cleo".
 I'm currently attending Northern Illinois University for a B.S. in Computer Science.
 I went down the university route because I had no prior experience in programming and
-didn't know where to start. I'm looking to build my profile so any feedback or advice
+no idea where to start. I'm looking to build my profile so any feedback or advice
 are very much welcome!
 
-- 🔭 I’m currently working on my B.S. in Computer Science
-- 🌱 I’m currently learning Data Structures & Algorithm/Network Programming
+- 🔭 I’m currently working on my B.S. in Computer Science.
+- 🌱 I’m currently a Junior in Northern Illinois University.
 - 👯 I’m looking to collaborate if an opportunity arises.
 - 🤔 I’m looking for help with pretty much everything. Feedbacks are welcome!
 <p>
