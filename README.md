@@ -15,4 +15,4 @@ are very much welcome!
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-6600CC?style=flat-square&logo=Xcode&logoColor=white" />
 </p>
---><a href="https://app.daily.dev/gitCleo"><img src="https://api.daily.dev/devcards/d529f3962e304a428a718ebb07a7c6c5.png?r=upd" width="400" alt="Cleolyn Salazar-Letona's Dev Card"/></a>
+<a href="https://app.daily.dev/cleopotato"><img src="https://api.daily.dev/devcards/d529f3962e304a428a718ebb07a7c6c5.png?r=mdw" width="400" alt="Cleolyn Salazar's Dev Card"/></a>
