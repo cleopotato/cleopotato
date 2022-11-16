@@ -8,7 +8,7 @@ are very much welcome!
 - 🔭 I’m currently working on my B.S. in Computer Science.
 - 🌱 I’m currently a Senior in Northern Illinois University.
 - 👯 I’m looking to collaborate if an opportunity arises.
-- 🤔 I’m looking for help with pretty much everything. Feedbacks are welcome!
+- 🤔 Any help appreciated. Feedbacks are welcome!
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
